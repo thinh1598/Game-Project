@@ -29,7 +29,8 @@
   - Power-up như vật phẩm hồi máu
 - Nguồn tham khảo
   - Video hướng dẫn: https://youtu.be/ma-h2RxBBaY
-  - Hình ảnh sprite: https://spritedatabase.net/game/835
+  - Hình ảnh sprite nhân vật: https://craftpix.net/freebies/free-vampire-pixel-art-sprite-sheets
+  - Hình ảnh sprite zombie: https://craftpix.net/freebies/free-urban-zombie-sprite-sheet-pixel-art-pack
   - Âm thanh 8-bit: https://samplefocus.com/samples/8-bit-explosion
 - Mức độ sử dụng AI
    - AI được sử dụng với mục đích tham khảo, tra cứu và giải thích các đoạn mã chưa hiểu khi học trên web. Không dùng AI để viết thay toàn bộ chương trình.

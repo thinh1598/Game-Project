@@ -5,9 +5,12 @@
 - Chủ đề game
   - Tên game: Chém Zombie – Bản sao bóng tối
   - Ý tưởng: Lấy cảm hứng từ các tựa game chặt chém zombie 2D. Người chơi điều khiển nhân vật chính để tiêu diệt phiên bản zombie của chính cô ta – một "bản sao bóng tối".
+  - ![image](https://github.com/thinh1598/Game-Project/blob/main/anh/Screenshot%202025-05-19%20201238.png)
 - Đặc điểm nổi bật
   - Vật phẩm hồi máu khi lên cấp: Khi đạt đủ điểm kinh nghiệm, người chơi sẽ tự động nhận vật phẩm hồi máu.
-  - Các chức năng cơ bản bao gồm:
+  - ![image](https://github.com/thinh1598/Game-Project/blob/main/anh/Screenshot%202025-05-19%20201337.png)
+  - Các chức năng cơ bản bao gồm:![image](https://github.com/thinh1598/Game-Project/blob/main/anh/Screenshot%202025-05-19%20213003.png)
+  - Chức năng tạm dừng:![image](https://github.com/thinh1598/Game-Project/blob/main/anh/Screenshot%202025-05-19%20201349.png)
 - Tính năng dự kiến triển khai (Checklist)
   - Dùng các lệnh vẽ hình
   - Texture

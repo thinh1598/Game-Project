@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1745307995 source:c:\users\cuong\desktop\gameproject\main\main.cpp
+	<iostream>
+	"graphics.h"
+	"Character.h"
+	"Zombie.h"
+	"Input_Valuable.h"
+	"Sound.h"
+	"Text.h"
+
+1745241663 c:\users\cuong\desktop\gameproject\main\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1745173403 c:\users\cuong\desktop\gameproject\main\defs.h
+
+1745121955 c:\users\cuong\desktop\gameproject\main\logic.h
+
+1745077260 source:c:\users\cuong\desktop\gameproject\main\map.cpp
+	"Map.h"
+	<SDL2/SDL_image.h>
+
+1745077260 c:\users\cuong\desktop\gameproject\main\map.h
+	<SDL2/SDL.h>
+
+1745308376 c:\users\cuong\desktop\gameproject\main\character.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"Input_Valuable.h"
+	"Text.h"
+
+1745292876 c:\users\cuong\desktop\gameproject\main\input_valuable.h
+	"SDL2/SDL.h"
+
+1745171031 c:\users\cuong\desktop\gameproject\main\text.h
+	<bits/stdc++.h>
+	<SDL2/SDL_ttf.h>
+	"Input_Valuable.h"
+	"graphics.h"
+
+1745173663 c:\users\cuong\desktop\gameproject\main\sound.h
+	<bits/stdc++.h>
+	<SDL2/SDL_mixer.h>
+	"graphics.h"
+	"Input_Valuable.h"
+
+1745308450 c:\users\cuong\desktop\gameproject\main\zombie.h
+	<bits/stdc++.h>
+	"graphics.h"
+	"Sound.h"
+
+1745308484 source:c:\users\admin\desktop\gameproject-main\main\main.cpp
+	<iostream>
+	"graphics.h"
+	"Character.h"
+	"Zombie.h"
+	"Input_Valuable.h"
+	"Sound.h"
+	"Text.h"
+
+1745308484 c:\users\admin\desktop\gameproject-main\main\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1746992087 c:\users\admin\desktop\gameproject-main\main\character.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"Input_Valuable.h"
+	"Text.h"
+
+1747064575 c:\users\admin\desktop\gameproject-main\main\input_valuable.h
+	<SDL.h>
+
+1746992036 c:\users\admin\desktop\gameproject-main\main\text.h
+	<bits/stdc++.h>
+	<SDL_ttf.h>
+	"Input_Valuable.h"
+	"graphics.h"
+
+1746991920 c:\users\admin\desktop\gameproject-main\main\zombie.h
+	<bits/stdc++.h>
+	"graphics.h"
+	"Sound.h"
+
+1746992042 c:\users\admin\desktop\gameproject-main\main\sound.h
+	<bits/stdc++.h>
+	<SDL_mixer.h>
+	"graphics.h"
+	"Input_Valuable.h"
+
+1747663046 source:c:\users\cuong\downloads\main-20250512t161023z-001\main\main.cpp
+	<iostream>
+	"graphics.h"
+	"Character.h"
+	"Zombie.h"
+	"Input_Valuable.h"
+	"Sound.h"
+	"Text.h"
+
+1747066365 c:\users\cuong\downloads\main-20250512t161023z-001\main\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1747410068 c:\users\cuong\downloads\main-20250512t161023z-001\main\character.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"Input_Valuable.h"
+	"Text.h"
+
+1747066365 c:\users\cuong\downloads\main-20250512t161023z-001\main\input_valuable.h
+	<SDL.h>
+
+1747499872 c:\users\cuong\downloads\main-20250512t161023z-001\main\text.h
+	<bits/stdc++.h>
+	<SDL_ttf.h>
+	"Input_Valuable.h"
+	"graphics.h"
+
+1747395296 c:\users\cuong\downloads\main-20250512t161023z-001\main\zombie.h
+	<bits/stdc++.h>
+	"graphics.h"
+	"Sound.h"
+
+1747066365 c:\users\cuong\downloads\main-20250512t161023z-001\main\sound.h
+	<bits/stdc++.h>
+	<SDL_mixer.h>
+	"graphics.h"
+	"Input_Valuable.h"
+
+1747663046 source:c:\users\admin\desktop\main\main.cpp
+	<iostream>
+	"graphics.h"
+	"Character.h"
+	"Zombie.h"
+	"Input_Valuable.h"
+	"Sound.h"
+	"Text.h"
+
+1747066365 c:\users\admin\desktop\main\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+
+1747410068 c:\users\admin\desktop\main\character.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"Input_Valuable.h"
+	"Text.h"
+
+1747066365 c:\users\admin\desktop\main\input_valuable.h
+	<SDL.h>
+
+1747499872 c:\users\admin\desktop\main\text.h
+	<bits/stdc++.h>
+	<SDL_ttf.h>
+	"Input_Valuable.h"
+	"graphics.h"
+
+1747395296 c:\users\admin\desktop\main\zombie.h
+	<bits/stdc++.h>
+	"graphics.h"
+	"Sound.h"
+
+1747066365 c:\users\admin\desktop\main\sound.h
+	<bits/stdc++.h>
+	<SDL_mixer.h>
+	"graphics.h"
+	"Input_Valuable.h"
+
